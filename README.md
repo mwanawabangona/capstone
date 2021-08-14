@@ -10,7 +10,7 @@
 
 ## Live Demo Link for Github-Page Branch
 
-[Click Here to view presentation video](https://https://www.loom.com/share/d528d0f342034bdcae2639871e86655e)
+[Click Here to view presentation video](https://www.loom.com/share/d528d0f342034bdcae2639871e86655e)
 [Click Here to view live version](https://mwanawabangona.github.io/capstone/)
 ## Built With
 ### Major languages
