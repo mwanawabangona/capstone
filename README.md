@@ -16,7 +16,7 @@
 ### Major languages
 - HTML
 - CSS
-- JavaScript
+- Javascript
 - Linters
 
 ### Technologies used
