@@ -1,18 +1,17 @@
 # Capstone Project
 
-> This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse.
+> This project contains the HTML, CSS and JavaScript Capstone Project. Capstone Projects are done at the end of a module at Microverse. It inolves everything we learnt through the module.
 
 
 # Project Name
-## StartUp Lab Summit
+## The NBA Summit
 
-** StartUp Lab is an annual conference event that is held internationally for individuals to participate in real life and join us live on YouTube. Focus of this annual event is to address individuals, who wants to start their own business or have already started. ** 
+** The NBA summit is an annual conference which comes with a workshop. its  Focused on improving basketball coaches and exposing to new players to the game, also allows players to meet there idols ** 
 
 ## Live Demo Link for Github-Page Branch
 
-[Click Here to view presentation video](https://www.loom.com/share/44ab3ae3582e4eb6aa25ce0dfff240b5)
-
-[Click Here to view live version](https://faizi2500.github.io/Module1-Capstone-Project/)
+[Click Here to view presentation video](https://https://www.loom.com/share/d528d0f342034bdcae2639871e86655e)
+[Click Here to view live version](https://mwanawabangona.github.io/capstone/)
 ## Built With
 ### Major languages
 - HTML
@@ -25,19 +24,18 @@
 - Git
 - Visual Studio Code
 - Ubuntu
-- Photoshop
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
-git clone https://github.com/faizi2500/Module1-Capstone-Project.git
+git clone https://github.com/mwanawabangona/capstone cd capstone
 
 
-## Authors
-👤 Faizan Zahid
+## Author
+👤 Ellis Ngona
 
-- GitHub: [@faizi2500 ](https://github.com/faizi2500)
-- Twitter: [@faizi_250 ](https://twitter.com/Faizy_250) 
-- LinkedIn: [@faizan2500](www.linkedin.com/in/faizan2500)
+- GitHub: [@mwanawabangona ](https://github.com/faizi2500)
+- Twitter: [@ellis_aah ](https://twitter.com/Faizy_250) 
+- LinkedIn: [@Ellis Ngona](www.linkedin.com)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
